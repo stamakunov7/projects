@@ -1,6 +1,6 @@
 ''' 
 
-### Semester Cost Calculator (`assignment_1.py`)
+### Semester Cost Calculator 
 
 **Description:** This program is designed to calculate the total cost for a semester based on the number of credits and the cost per credit for various courses. It is particularly useful for students planning their semester budget.
 
@@ -8,7 +8,7 @@
 
 ---
 
-### Home Purchase Tax Calculator (`assignment_2.py`)
+### Home Purchase Tax Calculator 
 
 **Description:** This script aids in calculating the various taxes associated with the purchase of a home. It takes into account state tax, county tax, and realtor tax, providing a comprehensive overview of the tax implications of a home purchase.
 
@@ -16,7 +16,7 @@
 
 ---
 
-### Roulette Wheel Simulator (`assignment_3.py`)
+### Roulette Wheel Simulator 
 
 **Description:** A fun and interactive program that simulates a roulette wheel game. It allows users to input a pocket number and checks its validity within the game's rules.
 
@@ -24,7 +24,7 @@
 
 ---
 
-### Simple and Compound Interest Calculator (`assignment_3_1.py`)
+### Simple and Compound Interest Calculator 
 
 **Description:** This program is a financial tool for calculating both simple and compound interest. It's ideal for individuals looking to understand the potential growth of their investments or savings over time.
 
@@ -32,7 +32,7 @@
 
 ---
 
-### Sports Team Manager (`assignment_7_1.py`)
+### Sports Team Manager 
 
 **Description:** This script is designed for managing sports teams, allowing users to store and retrieve detailed information about players and teams, including player stats and team records.
 
@@ -40,7 +40,7 @@
 
 ---
 
-### Team Statistics Reader (`assignment_7_2.py`)
+### Team Statistics Reader 
 
 **Description:** A program focused on reading and processing sports team statistics. It can be used to analyze team performance, player statistics, and other relevant data.
 
@@ -48,7 +48,7 @@
 
 ---
 
-### Random Number List Generator (`assignment_8.py`)
+### Random Number List Generator 
 
 **Description:** This script generates a list of random numbers and performs various operations on them. It's useful for statistical analyses, simulations, or any scenario where random data is required.
 
@@ -56,7 +56,7 @@
 
 ---
 
-### Capstone Project Menu (`Capstone Assignment.py`)
+### Capstone Project Menu 
 
 **Description:** This file serves as a central menu or interface for accessing various assignments and programs. It aggregates multiple scripts into a single, user-friendly interface.
 
@@ -64,7 +64,7 @@
 
 ---
 
-### Student Age Analyzer (`classassignmentweek_5.py`)
+### Student Age Analyzer 
 
 **Description:** Aimed at analyzing the ages of students, this program calculates their ages based on birth years. It's a helpful tool for educators and administrators in academic settings.
 
@@ -72,7 +72,7 @@
 
 ---
 
-### Quiz and Dice Game (`group_assignment.py`)
+### Quiz and Dice Game 
 
 **Description:** This engaging script combines a quiz game with a dice game. It offers a variety of questions from different subjects, making it both educational and entertaining.
 
